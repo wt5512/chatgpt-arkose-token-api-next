@@ -5,12 +5,16 @@ chatgpt-arkose-token-api-next
 
 ## 2024-02-02更新： 
 ### 步骤
+
 第一步：**打开页面 https://app.westpaas.com/loginByQr/  获取api权限**
+
 第二步：**调用下面接口**
+
 ```
 curl --location --request POST 'https://app.westpaas.com/BaseService/api/Gpt/UseGptArkoseBatch?count=1' \
 --header 'Authorization: Bearer [第一步获取的token]'
 ```
+
 如果需要帮助请联系wt5512@163.com
 
 
