@@ -14,6 +14,7 @@ chatgpt-arkose-token-api-next
 curl --location --request POST 'https://app.westpaas.com/BaseService/api/Gpt/UseGptArkoseBatch?count=1' \
 --header 'Authorization: Bearer [第一步获取的token]'
 ```
+演示![image](https://github.com/wt5512/chatgpt-arkose-token-api-next/assets/7941052/c3cc741f-8548-4b06-894f-7632b76ec5ff)
 
 如果需要帮助请联系wt5512@163.com
 
